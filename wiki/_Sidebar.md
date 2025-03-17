@@ -16,6 +16,8 @@
 * [[Research-Methods]]
 * [[Framework-Overview]]
 * [[Evolution-Studies]]
+* [[Research-Collaboration]]
+* [[AI-Human-Research]]
 
 ## Development
 * [[Research-Status]]

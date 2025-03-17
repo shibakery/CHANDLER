@@ -1,5 +1,9 @@
 # CHANDLER Research Framework
 
+![Version](https://img.shields.io/badge/version-0.1.0--alpha-blue)
+![Status](https://img.shields.io/badge/status-research-yellow)
+![Stage](https://img.shields.io/badge/stage-theoretical-orange)
+
 **Research Notice**: This documentation describes theoretical research in network evolution and mathematical validation.
 
 ## Research Focus

@@ -1,27 +1,27 @@
-# CHANDLER Framework
+# CHANDLER Research
 
-## Core Research
+## Foundation
 * [[Home]]
 * [[Research-Disclaimer]]
 * [[Mathematical-Foundation]]
 
-## Mathematical Components
-* [[Mathematical-Proofs]]
+## Research Areas
+* [[Network-Research]]
 * [[Validation-Framework]]
 * [[Challenge-Arena]]
 * [[Edge-Evolution]]
-* [[Network-Theorems]]
+* [[Growth-Patterns]]
 
-## Integration
-* [[WILL-Integration]]
-* [[GFORCE-Mathematics]]
-* [[Challenge-Types]]
+## Theory
+* [[Research-Methods]]
+* [[Framework-Overview]]
+* [[Evolution-Studies]]
 
 ## Development
-* [[Validation-Requirements]]
 * [[Research-Status]]
-* [[Implementation-Timeline]]
+* [[Academic-Focus]]
+* [[Study-Areas]]
 
-## References
+## Resources
 * [[Contact]]
 * [[Contributing]]
